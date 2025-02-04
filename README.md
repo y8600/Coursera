@@ -1,2 +1,2 @@
-# Coursera 1.0
-https://github.com/yaoyangliu/github-project
+#  Apache 2.0 License
+
